@@ -19,6 +19,7 @@ WHERE AVG(salary) > 20000;
 
 下面的三个语句均不合法。  
 实验过程：
+
 ![](task4image/image.png)
 ![](task4image/image-1.png)
 ![](task4image/image-2.png)
