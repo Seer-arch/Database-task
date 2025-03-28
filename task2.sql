@@ -2,11 +2,10 @@
 /*
  假设拟在数据库添加一个关系，其关系模式是 users(name, pswd, gender)，并让`name`作为主码。请使用`CREATE TABLE`命令添加该关系。
  */
-CREATE  TABLE users(
-    `name` VARCHAR(100), PRIMARY KEY
+CREATE TABLE users(
+    name VARCHAR(100) PRIMARY KEY,
     pswd VARCHAR(100),
     gender VARCHAR(100));
-
 
 ---题目2
 /*
